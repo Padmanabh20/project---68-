@@ -1,0 +1,16 @@
+body{
+    text-align:center;
+    background-color:aquamarine
+    
+}
+.announcment{
+    background-color:aqua
+}
+.video{
+    margin-top:10px;
+}
+#mynavbar{
+    top:0px;
+    position:sticky;
+    z-index:99;
+}
